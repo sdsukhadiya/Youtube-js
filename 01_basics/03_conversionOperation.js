@@ -30,3 +30,6 @@ console.log(BooleanIsLoginId);
 "" => false "dsad" => true
 */
 
+// =========Operators=========
+
+

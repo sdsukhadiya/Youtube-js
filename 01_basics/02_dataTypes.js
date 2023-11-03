@@ -9,4 +9,4 @@ undefined => let state;
 console.log(typeof __);  // check data types
 
 console.log(typeof undefined); // undefined
-console.log(typeof null); object 
+console.log(typeof null); //object 
